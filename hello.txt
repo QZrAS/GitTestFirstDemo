@@ -1,4 +1,4 @@
 hello world
 commited
 hot-fix test
-github master
+github very cool
